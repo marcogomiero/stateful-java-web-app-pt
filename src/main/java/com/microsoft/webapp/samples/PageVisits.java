@@ -4,7 +4,7 @@
  * license information.
  */
 
-package com.microsoft.webapp.samples;
+package main.java.com.microsoft.webapp.samples;
 
 import java.io.IOException;
 import java.io.Serializable;
@@ -13,7 +13,7 @@ import org.apache.logging.log4j.Logger;
 
 public class PageVisits implements Serializable {
 
-    public static final Logger LOG = LogManager.getLogger(com.microsoft.webapp.samples.PageVisits.class);
+    public static final Logger LOG = LogManager.getLogger(main.java.com.microsoft.webapp.samples.PageVisits.class);
 
     private int pageViews = 0;
 

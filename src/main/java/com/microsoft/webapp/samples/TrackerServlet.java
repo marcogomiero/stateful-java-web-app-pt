@@ -4,7 +4,7 @@
  * license information.
  */
 
-package com.microsoft.webapp.samples;
+package main.java.com.microsoft.webapp.samples;
 
 import java.io.IOException;
 import java.io.PrintWriter;

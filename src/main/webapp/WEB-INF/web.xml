@@ -11,7 +11,7 @@
 
     <servlet>
         <servlet-name>TrackerServlet</servlet-name>
-        <servlet-class>com.microsoft.webapp.samples.TrackerServlet</servlet-class>
+        <servlet-class>main.java.com.microsoft.webapp.samples.TrackerServlet</servlet-class>
         <init-param>
             <param-name>pageTitle</param-name>
             <param-value>Cloud Scale Web App Session Management</param-value>
